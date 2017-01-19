@@ -1,0 +1,2 @@
+class BroHobbiesController < ApplicationController
+end
